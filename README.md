@@ -1,1 +1,1 @@
-# Cental_Limit_Teorm
+# Cental_Limit_Theorem
